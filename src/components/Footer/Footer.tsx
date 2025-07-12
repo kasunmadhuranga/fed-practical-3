@@ -33,8 +33,8 @@ const Footer: React.FC = () => {
                 <div >
                     <h4 className="text-lg font-semibold mb-6 border-dashed border-b border-[#f39919] w-fit pb-1">About Us</h4>
                     <p className="mb-3 text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                    <p className="flex text-gray-400 items-center gap-2"><FaPhoneAlt /> (+94) 11 434 7575</p>
-                    <p className="flex text-gray-400 items-center gap-2 mt-2"><FaMapMarkerAlt /> 42 Lily Ave, Colombo 00600</p>
+                    <p className="flex text-gray-400 items-center gap-2"><FaPhoneAlt /> (+94) 76 798 6456</p>
+                    <p className="flex text-gray-400 items-center gap-2 mt-2"><FaMapMarkerAlt />Colombo 00600</p>
                 </div>
 
                 <div>
