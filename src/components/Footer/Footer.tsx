@@ -74,7 +74,11 @@ const Footer: React.FC = () => {
             </div>
 
             <div className="flex flex-col md:flex-row justify-between items-center pt-4 text-gray-300 text-xs">
-                <p>Copyright © 2021 All Rights Reserved. Site By Xiteb<sup>®</sup></p>
+                {/* <p>Copyright © 2021 All Rights Reserved. Site By Xiteb<sup>®</sup></p> */}
+                <p>
+                    Copyright © 2021 All Rights Reserved. Site By Xiteb<sup>® </sup>
+                    developed by <a href="https://www.linkedin.com/in/kazun/" className='text-[#f39919]' target="_blank" rel="noopener noreferrer">Kasun Madhuranga</a>
+                </p>
                 <div className="flex space-x-2 mt-2 md:mt-0">
                     <FaFacebookF className='cursor-pointer bg-[#6b788d] text-white w-5 h-5 rounded-full p-1 text-[11px]'/>
                     <FaTwitter className='cursor-pointer bg-[#6b788d] text-white w-5 h-5 rounded-full p-1 text-[11px]'/>

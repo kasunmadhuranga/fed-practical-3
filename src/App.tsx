@@ -16,7 +16,6 @@ const App: React.FC = () => {
     <>
       <Header />
       <Home />
-
     </>
   )
 }
